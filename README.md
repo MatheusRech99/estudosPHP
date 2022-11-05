@@ -1,3 +1,3 @@
 ## Iniciando do básico com PHP.
 
-## php "diretorio/arquivo" roda codigo no console
+## Para rodar o codigo e exibir no console, usa-se php `diretorio/arquivo`
